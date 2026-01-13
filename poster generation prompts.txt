@@ -1,0 +1,198 @@
+ Email Generation   Tool Used : ChatGPT  Email Prompt : Write a very formal and professional email from the Academic Coordinator of RV University addressed to undergraduate students, informing them about a one-day Generative AI Workshop conducted by IBM.
+The tone must be:
+Highly formal  
+Academic and official  
+Polite and authoritative  
+Suitable for a university circular  
+The email should include:
+Purpose of the workshop  
+That it is conducted by IBM  
+Target audience: undergraduate students  
+Date, time, venue, and mode (offline)  
+Brief list of key highlights  
+Registration information (mention limited seats)  
+Encouragement to attend  
+Formal closing with designation  
+Use the following details exactly:
+Date: 14 January 2026  
+Time: 10:30 AM – 5:30 PM  
+Venue: RV University Campus  
+Mode: Offline  
+Do NOT use casual language.  Do NOT use emojis.  Do NOT sound promotional or marketing-oriented.  Structure the email clearly with paragraphs and bullet points where appropriate.
+End the email with a formal sign-off from the Academic Coordinator, RV University.
+
+
+
+   Subject: Invitation to Generative AI Workshop Conducted by IBM
+Dear Students,
+The Department of ___________________, RV University, is pleased to inform you that a one-day Generative Artificial Intelligence (GenAI) Workshop is being organized for undergraduate students, conducted by IBM, with the objective of providing exposure to contemporary developments in Artificial Intelligence.
+The workshop is designed to offer foundational understanding as well as practical insights into Generative AI, including its applications in text and image generation, large language models, and industry-relevant use cases.
+Workshop Details: Date: 14 January 2026 Time: 10:30 AM – 5:30 PM Venue: RV University Campus Mode: Offline
+Key Highlights:
+Introduction to Generative AI concepts
+Overview of Large Language Models (LLMs)
+Prompt Engineering fundamentals
+Real-world applications of GenAI
+Participation certificate from IBM
+The workshop is open to undergraduate students from relevant disciplines. No prior experience in Artificial Intelligence is mandatory. Interested students are requested to register at the earliest, as seats are limited.
+Registration Link / QR Code: [To be inserted]
+Students are encouraged to make the most of this opportunity to gain industry-oriented knowledge from experts and enhance their understanding of emerging AI technologies.
+For further details, please contact the undersigned.
+Warm regards,
+[Name] Academic Coordinator Department of ___________________ RV University Email: ___________________ Contact: ___________________
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poster Generation  
+Tool Used : Gemini NanoBanana  
+Poster Prompt: Create a vibrant, modern, poster-style visual for a college AI Workshop.
+IMPORTANT:
+Display the text EXACTLY as given.  
+Do NOT change spelling, wording, capitalization, or line breaks.  
+Do NOT paraphrase or auto-correct.  
+Treat the text as final poster content.  
+STYLE:
+Bright, vibrant, student-friendly  
+Modern workshop / tech event poster  
+Bold colour blocks (blue, cyan, white)  
+Clean and structured layout  
+Professional but exciting  
+Suitable for college students  
+VISUALS:
+Subtle abstract tech or AI patterns  
+Dots, lines, geometric shapes  
+No stock photos  
+No human faces  
+No robots  
+No clutter  
+LAYOUT:
+Vertical poster layout  
+Clear sections for each text block  
+Text placed only on solid colour panels  
+Strong visual hierarchy  
+Leave clean space where a QR code can be placed  
+DISPLAY THIS TEXT EXACTLY:
+AI WORKSHOP  Learn • Build • Apply
+Conducted by IBM
+14th January 2026  10:30 AM – 5:30 PM  RV University (Offline)
+Workshop Objective  Hands-on introduction to Artificial Intelligence and Machine Learning with real-world applications.
+Key Topics  AI & ML fundamentals  Model training basics  Industry use cases  Hands-on demos
+For Undergraduate Students  Participation certificate provided
+Scan to Register  Limited Seats Available
+GOAL:  Create a clean, vibrant, poster-style design that is readable, attractive, and suitable for campus notice boards and digital sharing.
+     Video Generation   Tool used: Fliki.ai  Video Generation Prompt:  Create a creative, energetic, motion-graphics style video for a college AI Workshop.
+IMPORTANT:
+This should NOT look like a static poster on a video. 
+Use animated text, transitions, shapes, and backgrounds. 
+Each section should appear as a new animated scene. 
+Keep text accurate and readable.   STYLE:
+Bright, vibrant, youthful  
+Modern tech / startup vibe  
+Clean but playful  
+Suitable for undergraduate students  
+Energetic but not chaotic  
+
+
+
+VISUAL DIRECTION:
+Use animated backgrounds (gradients, waves, particles)  
+Moving geometric shapes (circles, lines, blocks)  
+Subtle abstract AI visuals (data lines, nodes, grids)  
+Smooth transitions between scenes  
+No stock people  
+No robots  
+No static poster layouts  
+
+
+
+STRUCTURE (VERY IMPORTANT — FOLLOW THIS FLOW):
+Scene 1 (Hook – 2–3 seconds)  Large animated text appears with motion:  AI WORKSHOP  Learn • Build • Apply
+Scene 2 (Credibility)  Text slides or fades in:  Conducted by IBM
+Scene 3 (When & Where)  Animate icons + text:  14th January 2026  10:30 AM – 5:30 PM  RV University (Offline)
+Scene 4 (Objective)  Text appears with smooth motion:  Workshop Objective  Hands-on introduction to Artificial Intelligence and Machine Learning with real-world applications.
+Scene 5 (Key Topics – Dynamic)  Animate each topic one by one:  AI & ML fundamentals  Model training basics  Industry use cases  Hands-on demos
+Scene 6 (Audience & Certificate)  Text with light motion:  For Undergraduate Students  Participation certificate provided
+Scene 7 (Call to Action – End Strong)  Bold animated text:  Scan to Register  Limited Seats Available
+
+
+
+TEXT RULES:
+Use the text EXACTLY as written above  
+Do not reword or auto-correct  
+No long paragraphs on screen  
+Large fonts, high contrast  
+One idea per scene  
+
+
+
+BACKGROUND MUSIC (if applicable):
+Light, modern, upbeat  
+Tech / innovation vibe  
+Not dramatic, not cinematic  
+
+GOAL:  Create a short, engaging, creative promo video that feels like:
+a college tech fest teaser  
+a modern workshop announcement  
+something students would watch instead of skipping  
+This should feel dynamic, fresh, and exciting, not like a poster slideshow.
+
+
+
+
+
+
+
+
+Video Generation for a story  Tool used : Fliki.ai  Prompt used :  give me a 2 min script for a emotional story   Script generated: Here’s a tight 2-minute emotional story script. No fluff. Simple, human, hits the gut.
+
+
+
+Title: “The Missed Call”
+I used to ignore my phone when it rang late at night. Always thought, I’ll call back tomorrow.
+Every night at 11:47, the same number called. No name. Just a number.
+One night, annoyed, I picked up.
+Silence.
+Then breathing. Slow. Tired.
+A voice finally said, “Wrong number… sorry to bother you.”
+The calls stopped after that.
+Weeks passed. Life moved. Exams, deadlines, noise.
+Then one evening, my mom asked casually, “Did you ever talk to your grandfather?”
+I laughed. “He never calls me.”
+She went quiet.
+“He used to,” she said. “Every night. Around 11:47. He forgot how to save contacts.”
+The room shrank.
+She continued, softer, “He said hearing your voice helped him sleep. Even if you didn’t talk.”
+I checked my call history. Deleted. Clean. Empty.
+That night, at 11:47, my phone stayed silent.
+I waited anyway.
+For a ring that wouldn’t come. For a voice that needed nothing— Just proof it wasn’t alone.
+Now I pick up every call.
+Even the wrong ones.
+Because sometimes, someone isn’t calling for answers.
+They’re calling to feel remembered.
+   
